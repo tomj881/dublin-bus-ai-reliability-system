@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+plotly
+gradio
+fastapi
+uvicorn
+google-generativeai
+python-dotenv
