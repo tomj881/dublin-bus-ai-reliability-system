@@ -79,3 +79,6 @@ pip install -r requirements.txt
 
 # Run system
 python -m app.synthetic_generator
+
+#Run dashboard
+python -m app.dashboard
